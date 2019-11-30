@@ -144,7 +144,6 @@
                                 <button type="submit" name="simpan" class="btn btn-primary">
                                     Bayar                                    
                                 </button>
-
                             </div>
                         </div>
                     </div>

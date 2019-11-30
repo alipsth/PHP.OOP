@@ -120,7 +120,7 @@
                                                     <input type="text"class="form-control" name="harga[]" placeholder="Harga">
                                                 </div>
                                                 <div class="col">
-                                                    <input type="text"class="form-control" name="barang[]" placeholder="Jumlah Barang">
+                                                    Jumlah Barang :<input type="text"class="form-control" name="barang[]" placeholder="Jumlah Barang">
                                                 </div>
                                             </div>
                                         </div>

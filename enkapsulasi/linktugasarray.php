@@ -32,7 +32,7 @@
 						echo "Nama   :" . $this->namaa[$data] . "<br>" .
 						"Nik    :" . $this->nikk[$data] . "<br>" .
 						"Alamat :" . $this->alamatt[$data] . "<br>" .
-						"Umur   :" . $this->umurr[$data] . "<br>";
+						"Umur   :" . $this->umurr[$data] . "<hr>";
 				}
 			}
 
